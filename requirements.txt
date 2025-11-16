@@ -1,3 +1,4 @@
+azure-core
 semantic-kernel
 semantic-kernel[azure]
 semantic-kernel[mcp]
